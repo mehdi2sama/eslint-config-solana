@@ -1,6 +1,6 @@
 module.exports = {
   env: {
-    es2020: true,
+    es2020: false,
     "shared-node-browser": true,
   },
   ignorePatterns: ["dist/**", "lib/**"],
